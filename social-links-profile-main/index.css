@@ -4,14 +4,16 @@ img {
   margin-right: auto;
   border-radius: 50%;
   height: 100px;
+  gap: 20px;
 }
 
 h1 {
   color: white;
   text-align: center;
+  line-height: 1.2px;
+  font-size: 25px;
 }
 p {
-  /* line-height: 1.2px; */
   text-align: center;
   color: Green hsl(75, 94%, 57%);
   color: white;
@@ -28,11 +30,12 @@ p {
   color: white;
   display: flex;
   justify-content: center;
-  width: 250px;
-  height: 30px;
+  width: 300px;
+  height: 40px;
   border: 2px solid grey;
   border-radius: 5%;
-  margin: 18px;
+  margin: 10px;
+  padding: 5px;
 
   background-color: Grey 700hsl (0, 0%, 20%);
 }
