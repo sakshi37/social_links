@@ -1,0 +1,45 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  height: 100px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  /* line-height: 1.2px; */
+  text-align: center;
+  color: Green hsl(75, 94%, 57%);
+  color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* color: white; */
+}
+.c {
+  color: white;
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  height: 30px;
+  border: 2px solid grey;
+  border-radius: 5%;
+  margin: 18px;
+
+  background-color: Grey 700hsl (0, 0%, 20%);
+}
+
+body {
+  background-color: black;
+  /* border: 500px white solid; */
+  margin-bottom: 50px;
+  /* z-index: -0; */
+}
